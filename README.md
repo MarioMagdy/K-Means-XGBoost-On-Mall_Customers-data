@@ -14,4 +14,4 @@ We are trying to make sense of this data, Predict the new customers spending rat
     - using xgboost after clustering
     - conclusion
     
-    ![Mall Customer Segmentation](https://user-images.githubusercontent.com/38549205/223035314-5f4fa0b8-e337-4757-b158-6c1adbb35c05.png)
+![Mall Customer Segmentation](https://user-images.githubusercontent.com/38549205/223035314-5f4fa0b8-e337-4757-b158-6c1adbb35c05.png)
